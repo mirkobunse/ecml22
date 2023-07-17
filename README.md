@@ -1,3 +1,7 @@
+**This repository is archived; please proceed to our [follow-up repository](https://github.com/mirkobunse/regularized-oq).**
+
+---
+
 # Supplementary material for "Ordinal Quantification Through Regularization"
 
 The `supplement.pdf` contains additional material, e.g., extended experimental results.
